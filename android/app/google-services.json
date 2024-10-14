@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1089278814891",
+    "project_id": "sample-sept",
+    "storage_bucket": "sample-sept.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089278814891:android:6a0ae9897270e7907fe5ee",
+        "android_client_info": {
+          "package_name": "com.luminar.flutter_application_fir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVXLEAhCUOwjxhVpHfhLtgC--kGDyXHGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089278814891:android:24b1b26b25c5abe87fe5ee",
+        "android_client_info": {
+          "package_name": "com.luminar.flutter_application_firebase_sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVXLEAhCUOwjxhVpHfhLtgC--kGDyXHGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
